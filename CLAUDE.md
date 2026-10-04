@@ -8,8 +8,8 @@ Spec: `docs/SPEC.md`. Agreed changes and the reasons for them: `docs/DECISIONS.m
 ## Working agreement
 
 - Build phase by phase. After each phase: commit, explain how to test it, and
-  wait for the owner to confirm before starting the next one.
-- Briefly explain key design decisions; the owner is learning from this build.
+  wait for confirmation before starting the next one.
+- Briefly explain key design decisions; the person building this is learning from it.
 - Ask before deviating from the spec, and record agreed changes in `docs/DECISIONS.md`.
 - Don't push to GitHub until asked.
 

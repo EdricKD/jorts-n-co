@@ -2,7 +2,7 @@
 
 What was agreed on top of [SPEC.md](SPEC.md), and why. Newest at the bottom.
 
-## Owner's answers (4 Oct 2026)
+## Answers to the planning questions (4 Oct 2026)
 
 | Question | Answer |
 |---|---|
